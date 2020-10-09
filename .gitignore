@@ -1,4 +1,4 @@
 /.cache/
-/src/
+/dist/
 /node_modules/
 /*.json
